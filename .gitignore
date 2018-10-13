@@ -1,0 +1,11 @@
+.DS_Store
+data
+sftp-config.json
+vendor
+tests
+.idea
+phpunit.xml
+.env
+composer.lock
+*.log
+storage
